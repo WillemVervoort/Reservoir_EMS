@@ -2,4 +2,4 @@
 
 Code associated with EMS manuscript under revision.
 
-More code will be available once the article is accepted.
+Description will be made available once a doi is generated
