@@ -24,6 +24,8 @@ This methodology allows monitoring agricultural reservoir volumes in time:
   <img src="fig12.png" alt="method1" width="500">
 </p>
 
+It requires emcee==3.0.2.
+
 ## How to cite this work?
 
 ### Article
